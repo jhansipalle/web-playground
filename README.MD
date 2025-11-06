@@ -12,3 +12,13 @@
   Purpose: Lints JavaScript/TypeScript code and shows errors/warnings inline. 
 **CodeRunner**
   Purpose: Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim,
+
+ ## Commit Convention
+
+We follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+Examples:
+- `feat: add new feature`
+- `fix: resolve a bug`
+- `chore: update dependencies`
+- `docs: update documentation`
